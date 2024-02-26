@@ -8,7 +8,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 ### Technologies Logos
 
-1. PHP ![PHP Logo](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/icons/php.svg)
+<img src="https://cdn.jsdelivr.net/npm/@iconify/icons-logos/icons/php.svg" alt="PHP" > 
 2. HTML5 ![HTML5 Logo](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/icons/html-5.svg)
 3. CSS ![CSS Logo](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/icons/css-3.svg)
 4. JavaScript ![JavaScript Logo](https://cdn.jsdelivr.net/npm/@iconify/icons-logos/icons/javascript.svg)
