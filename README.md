@@ -24,12 +24,12 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
     <tr>
       <td style="text-align: center; padding: 10px;">
         <a href="https://dipaish.github.io/www23/index.html">
-          <img src="images/web.svg" alt="web development" style="width:50px;">
+          <img src="images/web.svg" alt="web development" style="width:80px;">
         </a>
       </td>
       <td style="text-align: center; padding: 10px;">
         <a href="https://dipaish.github.io/www23/index.html">
-          <img src="images/databases.svg" alt="web development" style="width:50px;">
+          <img src="images/databases.svg" alt="web development" style="width:80px;align:center;">
         </a>
       </td>
     </tr>
