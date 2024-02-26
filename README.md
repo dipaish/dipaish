@@ -21,7 +21,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
         <b>Databases</b>
       </td>
 
-    <td style="text-align: center; padding: 10px;">
+<td style="text-align: center; padding: 10px;">
         <b>Docker</b>
       </td>
     </tr>
