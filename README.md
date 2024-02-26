@@ -1,6 +1,11 @@
 # 🌱 Deepak KC 🌱
 
-**`Educator (Developer / Creator/ Learner)`**
+👩‍🏫 **Experienced Educator 📚**
+
+Meet an educator with a genuine passion for teaching and an unquenchable thirst for knowledge. 🚀 With several years of teaching under his belt, this educator goes the extra mile by incorporating the latest technologies and tools into his lessons. 💻 My commitment is not just to the subject matter but also to keeping learners up-to-date with the latest advancements. In  classroom, education is a dynamic experience, ensuring that students not only grasp the essentials but also stay ahead in the ever-evolving landscape of technology. 🌐
+
+
+
 <!--
 **dipaish/dipaish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
