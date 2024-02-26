@@ -33,18 +33,6 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
         </a>
       </td>
     </tr>
-    <tr>
-      <td style="text-align: center; padding: 10px;">
-        <p><a href="https://dipaish.github.io/www23/index.html">
-          Link
-        </a></p>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <p><a href="https://dipaish.github.io/www23/index.html">
-          Link
-        </a></p>
-      </td>
-    </tr>
   </table>
 <br />
 
