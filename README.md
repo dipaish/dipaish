@@ -12,54 +12,38 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 ### 💬 Educational Content 
 
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td style="text-align: center; padding: 10px;">
-        <b>Web Development</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>Databases</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>Docker</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>PHP</b>
-      </td>
-
-<td style="text-align: center; padding: 10px;">
-        <b>Basics of Data Analysis</b>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/www23/index.html">
-          <img src="images/web.svg" alt="web development" style="width:80px;text-align:center;">
-        </a>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/databases/index.html">
-          <img src="images/databases.svg" alt="web development" style="width:80px;text-align:center;">
-        </a>
-      </td>
-
-<td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/OS22/index.html">
-          <img src="images/docker.svg" alt="web development" style="width:80px;text-align:center;">
-        </a>
-      </td>
-<td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/OS22/index.html">
-          <img src="images/php.svg" alt="PHP" style="width:80px;text-align:center;">
-        </a>
-      </td>
-<td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/OS22/index.html">
-          <img src="images/danalysis.svg" alt="Basics of Data Analysis" style="width:80px;text-align:center;">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div class="container">
+  <div class="item">
+    <b>Web Development</b>
+    <a href="https://dipaish.github.io/www23/index.html">
+      <img src="images/web.svg" alt="web development">
+    </a>
+  </div>
+  <div class="item">
+    <b>Databases</b>
+    <a href="https://dipaish.github.io/databases/index.html">
+      <img src="images/databases.svg" alt="databases">
+    </a>
+  </div>
+  <div class="item">
+    <b>Docker</b>
+    <a href="https://dipaish.github.io/OS22/index.html">
+      <img src="images/docker.svg" alt="docker">
+    </a>
+  </div>
+  <div class="item">
+    <b>PHP</b>
+    <a href="https://dipaish.github.io/OS22/index.html">
+      <img src="images/php.svg" alt="PHP">
+    </a>
+  </div>
+  <div class="item">
+    <b>Basics of Data Analysis</b>
+    <a href="https://dipaish.github.io/OS22/index.html">
+      <img src="images/danalysis.svg" alt="Basics of Data Analysis">
+    </a>
+  </div>
+</div>
 <br />
 
 
