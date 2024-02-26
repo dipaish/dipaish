@@ -1,5 +1,4 @@
-### Hi there 👋
-# 🏄‍♂️ Deepak KC
+# 🌱 Deepak KC 🌱
 
 **`Educator (Developer / Creator/ Learner)`**
 <!--
