@@ -13,8 +13,13 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 <br />
 
+<!-- BEGIN WEB-PAGE-CARDS -->
+[![GitHub](https://website-cards.demolab.com/?url=https://github.com&title=GitHub&description=Platform+for+developers&image=https://via.placeholder.com/150&background_color=%23f5f5f5&title_color=%23222222&description_color=%23444444&width=300&border_radius=10)](https://github.com)
+[![WordPress](https://website-cards.demolab.com/?url=https://wordpress.org&title=WordPress&description=Open-source+content+management+system&image=https://via.placeholder.com/150&background_color=%23e6f7ff&title_color=%23225577&description_color=%23336699&width=300&border_radius=10)](https://wordpress.org)
+[![Mozilla](https://website-cards.demolab.com/?url=https://www.mozilla.org&title=Mozilla&description=Champion+of+a+healthy+internet&image=https://via.placeholder.com/150&background_color=%23ffe6cc&title_color=%23cc6600&description_color=%23804d29&width=300&border_radius=10)](https://www.mozilla.org)
+<!-- END WEB-PAGE-CARDS -->
 
-<!-- BEGIN YOUTUBE-CARDS -->
+
 
 
 <!--
