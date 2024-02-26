@@ -21,14 +21,14 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
         <b>Databases</b>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <b>PHP</b>
+        <b>Docker</b>
       </td>
       <td style="text-align: center; padding: 10px;">
-        <b>Basics of Data Analysis</b>
+        <b>PHP</b>
       </td>
 
 <td style="text-align: center; padding: 10px;">
-        <b>Docker</b>
+        <b>Basics of Data Analysis</b>
       </td>
     </tr>
     <tr>
