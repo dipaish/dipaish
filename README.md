@@ -12,27 +12,44 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 ### 💬 Educational Content 
 
-<a href="https://dipaish.github.io/www23/index.html">
- <img src="images/web.svg" alt="web development" style="width:50px;">
-</a> 
-
-<a href="https://dipaish.github.io/www23/index.html">
- <img src="images/databases.svg" alt="web development" style="width:50px;">
-</a> 
+  <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <b>Basics of Web Development</b>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <b>Databases</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://dipaish.github.io/www23/index.html">
+          <img src="images/web.svg" alt="web development" style="width:50px;">
+        </a>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://dipaish.github.io/www23/index.html">
+          <img src="images/databases.svg" alt="web development" style="width:50px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; padding: 10px;">
+        <p><a href="https://dipaish.github.io/www23/index.html">
+          Link
+        </a></p>
+      </td>
+      <td style="text-align: center; padding: 10px;">
+        <p><a href="https://dipaish.github.io/www23/index.html">
+          Link
+        </a></p>
+      </td>
+    </tr>
+  </table>
 <br />
 
 
-<a href="https://dipaish.github.io/www23/index.html">
-  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <rect x="2" y="2" width="20" height="20" rx="2" ry="2"/>
-  <line x1="7" y1="2" x2="7" y2="22"/>
-  <line x1="17" y1="2" x2="17" y2="22"/>
-  <line x1="2" y1="12" x2="22" y2="12"/>
-  <line x1="2" y1="7" x2="7" y2="7"/>
-  <line x1="2" y1="17" x2="7" y2="17"/>
-  <line x1="17" y1="7" x2="22" y2="7"/>
-  <line x1="17" y1="17" x2="22" y2="17"/>
-</svg>
+
 
 
 
