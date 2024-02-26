@@ -15,7 +15,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
   <table style="border-collapse: collapse; width: 100%;">
     <tr>
       <td style="text-align: center; padding: 10px;">
-        <b>Basics of Web Development</b>
+        <b>Web Development</b>
       </td>
       <td style="text-align: center; padding: 10px;">
         <b>Databases</b>
@@ -24,7 +24,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
     <tr>
       <td style="text-align: center; padding: 10px;">
         <a href="https://dipaish.github.io/www23/index.html">
-          <img src="images/web.svg" alt="web development" style="width:80px;">
+          <img src="images/web.svg" alt="web development" style="width:80px;align:center;">
         </a>
       </td>
       <td style="text-align: center; padding: 10px;">
