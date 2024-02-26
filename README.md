@@ -38,7 +38,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
       </td>
 
 <td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/databases/index.html">
+        <a href="https://dipaish.github.io/OS22/index.html">
           <img src="images/docker.svg" alt="web development" style="width:80px;text-align:center;">
         </a>
       </td>
