@@ -15,64 +15,60 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 ### 💬 Educational Content 
 
-  <table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td style="text-align: center; padding: 10px;">
-        <b>Web Development</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>Databases</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>Docker</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>HAMK BYOD</b>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <b>PHP</b>
-      </td>
-
-<td style="text-align: center; padding: 10px;">
-        <b>Basics of Data Analysis</b>
-      </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>Web Development</b>
+        </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>Databases</b>
+        </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>Docker</b>
+        </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>HAMK BYOD</b>
+        </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>PHP</b>
+        </td>
+        <td style="text-align: center; width: 120px; padding: 10px;">
+            <b>Basics of Data Analysis</b>
+        </td>
     </tr>
     <tr>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/www23/index.html">
-          <img src="images/web.svg" alt="web development" style="width:80px;text-align:center;">
-        </a>
-      </td>
-      <td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/databases/index.html">
-          <img src="images/databases.svg" alt="Databases" style="width:80px;text-align:center;">
-        </a>
-      </td>
-
-<td style="text-align: center; padding: 10px;">
-        <a href="https://dipaish.github.io/OS22/index.html">
-          <img src="images/docker.svg" alt="Docker Basics" style="width:80px;text-align:center;">
-        </a>
-      </td>
-<td style="text-align: center; padding: 10px;">
-        <a href="https://hamk-business-information-technology.github.io/os/index.html">
-          <img src="images/byod.jpg" alt="HAMK BYOD" style="width:80px;text-align:center;">
-        </a>
-      </td>
-<td style="text-align: center; padding: 10px;">
-        <a href="#">
-          <img src="images/php.svg" alt="PHP" style="width:80px;text-align:center;">
-        </a>
-      </td>
-<td style="text-align: center; padding: 10px;">
-        <a href="#">
-          <img src="images/danalysis.svg" alt="Basics of Data Analysis" style="width:80px;text-align:center;">
-        </a>
-      </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="https://dipaish.github.io/www23/index.html">
+                <img src="images/web.svg" alt="web development" style="width:80px;">
+            </a>
+        </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="https://dipaish.github.io/databases/index.html">
+                <img src="images/databases.svg" alt="Databases" style="width:80px;">
+            </a>
+        </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="https://dipaish.github.io/OS22/index.html">
+                <img src="images/docker.svg" alt="Docker Basics" style="width:80px;">
+            </a>
+        </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="https://hamk-business-information-technology.github.io/os/index.html">
+                <img src="images/byod.jpg" alt="HAMK BYOD" style="width:80px;">
+            </a>
+        </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="#">
+                <img src="images/php.svg" alt="PHP" style="width:80px;">
+            </a>
+        </td>
+        <td style="text-align: center; padding: 10px; vertical-align: middle;">
+            <a href="#">
+                <img src="images/danalysis.svg" alt="Basics of Data Analysis" style="width:80px;">
+            </a>
+        </td>
     </tr>
-  </table>
-<br />
-
+</table>
 
 
 
