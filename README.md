@@ -15,7 +15,7 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 
 ### 💬 Educational Content 
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; ">
     <tr>
         <td style="text-align: center; width: 120px; padding: 10px;">
             <b>Web Development</b>
