@@ -27,6 +27,9 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
         <b>Docker</b>
       </td>
       <td style="text-align: center; padding: 10px;">
+        <b>HAMK BYOD</b>
+      </td>
+      <td style="text-align: center; padding: 10px;">
         <b>PHP</b>
       </td>
 
@@ -49,6 +52,11 @@ Meet an educator with a genuine passion for teaching and an unquenchable thirst 
 <td style="text-align: center; padding: 10px;">
         <a href="https://dipaish.github.io/OS22/index.html">
           <img src="images/docker.svg" alt="web development" style="width:80px;text-align:center;">
+        </a>
+      </td>
+<td style="text-align: center; padding: 10px;">
+        <a href="https://hamk-business-information-technology.github.io/os/index.html">
+          <img src="images/byod.jpg" alt="HAMK BYOD" style="width:80px;text-align:center;">
         </a>
       </td>
 <td style="text-align: center; padding: 10px;">
