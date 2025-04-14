@@ -1,4 +1,4 @@
-# 🌱 Deepak Chhetri (KC)
+# 🌱 Deepak Chhetri
 
 ### 👩‍🏫 Experienced Educator 📚
 
